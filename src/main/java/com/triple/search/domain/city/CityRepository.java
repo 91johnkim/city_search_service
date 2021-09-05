@@ -1,7 +1,6 @@
 package com.triple.search.domain.city;
 
 
-import com.triple.search.domain.trip.Trip;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

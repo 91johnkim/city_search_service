@@ -2,7 +2,6 @@ package com.triple.search.domain.trip;
 
 import com.triple.search.domain.BaseEntity;
 import com.triple.search.domain.city.City;
-import com.triple.search.domain.country.Country;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
